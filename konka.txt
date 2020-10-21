@@ -1,4 +1,4 @@
-?ROB_1: Bejs
+?ROB_2: Bejs
 @ måste stå på ett ben tills det är deras lags tur igen.
 @ pekar ut vem som ”är den som tål minst alkohol och den som tål mest” från alla som är med i leken, den som blir vald som tål minst alkohol måste dricka 2 shots och den som tål mest 1.
 @ Drick ett ägg
